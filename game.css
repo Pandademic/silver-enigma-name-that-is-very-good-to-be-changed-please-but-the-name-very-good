@@ -1,6 +1,6 @@
 body
 {
-	background: black;
+	background: turquoise;
 	color: white;
 }
 
@@ -17,6 +17,7 @@ body
 {
 	display: inline-block;
 	margin-left: 20px;
+	color: white;
 }
 #word
 {
@@ -34,4 +35,5 @@ border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
+color: fuchsia;
 }
